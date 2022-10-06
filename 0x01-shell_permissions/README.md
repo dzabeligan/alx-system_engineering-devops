@@ -1,0 +1,3 @@
+# SYSTEM ENGINEERING DEVEOPS
+
+Shell permissions
